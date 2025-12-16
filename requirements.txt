@@ -1,0 +1,5 @@
+vosk
+pyaudio
+pygame
+requests
+python-dotenv

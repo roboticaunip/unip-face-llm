@@ -1,0 +1,1 @@
+print("UNIP Face LLM - estrutura inicial pronta")
