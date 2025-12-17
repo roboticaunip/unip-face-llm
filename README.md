@@ -1,5 +1,9 @@
 # 🤖 UNIP Face LLM
 
+Vídeo demonstração
+
+https://github.com/roboticaunip/unip-face-llm/blob/main/demonstra%C3%A7%C3%A3o.mp4
+
 Voice-based assistant with an animated face that integrates **Speech Recognition**, **Large Language Models (LLMs)** and **Text-to-Speech (TTS)** technologies, using **Vosk**, **Gemini**, and **Piper TTS**.
 
 ---
